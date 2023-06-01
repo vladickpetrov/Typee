@@ -1,0 +1,7 @@
+.stat {
+    padding-top: 167px;
+    display: flex;
+    justify-content: space-between;
+    gap: 65px;
+
+}
