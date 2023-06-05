@@ -1,0 +1,12 @@
+.moreinfo {
+    position: absolute;
+    font-size: 20px;
+    top: 32px;
+    right: 32px;
+    width: 35px;
+    height: 35px;
+    border-radius: 9px;
+    background-color: #646464;
+    color: white;
+    z-index: 0;
+}
