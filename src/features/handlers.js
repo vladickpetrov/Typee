@@ -1,4 +1,6 @@
 function applyAllKeyLogic(evt) {
+  evt.preventDefault();
+
   const { position } = this.state;
   const { text } = this.props;
 
@@ -13,13 +15,15 @@ function applyAllKeyLogic(evt) {
     //all the logic for printing
     if (evt.key === "Enter") {
       this.setState({ position: 0, errorArray: [] });
-      this.props.pasteText();
       this.props.clearStats();
       this.props.stopSpeedCalculating();
+
+      this.pasteText();
     }
 
-    if (position === text.length) {
+    if (position === text.length - 1) {
       // logic for ending writitng
+      this.showFinale();
       this.props.stopSpeedCalculating();
       return;
     }
