@@ -6,23 +6,3 @@
     justify-content: space-between;
     color: white;
 }
-
-.text {
-    margin: 0;
-    padding: 104px 62px;
-    font-size: 32px;
-    line-height: 45px;
-    letter-spacing: 0.03em;
-}
-
-@media screen and (max-width: 600px) {
-    .stat {
-        gap: 45px;
-        padding-top: 30px;
-    }
-
-    .text {
-        margin: 0;
-        padding: 30px;
-    }
-}

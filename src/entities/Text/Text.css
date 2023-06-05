@@ -1,0 +1,16 @@
+.text {
+    margin: 0;
+    padding: 104px 62px;
+    font-size: 32px;
+    line-height: 45px;
+    letter-spacing: 0.03em;
+    display: inline;
+    white-space: break-spaces;
+}
+
+@media screen and (max-width: 600px) {
+    .text {
+        margin: 0;
+        padding: 30px;
+    }
+}

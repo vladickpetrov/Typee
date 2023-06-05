@@ -1,5 +1,5 @@
 import React from "react";
-import "./stat.css";
+import "./Stat.css";
 
 function Stat({ iconText, quantity, description }) {
   return (

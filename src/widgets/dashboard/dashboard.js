@@ -1,6 +1,6 @@
 import React from "react";
-import "./dashboard.css";
-import Stat from "../../shared/stat";
+import "./Dashboard.css";
+import Stat from "../../shared/Stat";
 
 function Dashboard({ speed, accuracy, typos }) {
   return (
