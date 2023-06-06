@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Typee/static/css/main.9643e83a.css",
+    "main.js": "/Typee/static/js/main.059da909.js",
+    "index.html": "/Typee/index.html",
+    "main.9643e83a.css.map": "/Typee/static/css/main.9643e83a.css.map",
+    "main.059da909.js.map": "/Typee/static/js/main.059da909.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9643e83a.css",
+    "static/js/main.059da909.js"
+  ]
+}
