@@ -26,7 +26,7 @@ This app provides some cool features:
 
 You can test this app by clicking on this icon:
 
-<a href="https://vladickpetrov.github.io/Typee/"><img src="./public/apple-touch-icon.png" style="object-fit:cover; width: 50px; height: 50px;"></a>
+<a target="_blank" href="https://vladickpetrov.github.io/Typee/"><img src="./public/apple-touch-icon.png" style="object-fit:cover; width: 50px; height: 50px;"></a> 
 
 ## Requirements
 
