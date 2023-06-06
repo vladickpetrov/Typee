@@ -7,6 +7,7 @@ App created for improving your typewriting skills.
 ## Table of contents
 
 * [What can you do with this app](#what-can-you-do-with-this-app)
+* [App Link](#app-link)
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [Start and have fun!](#start-and-have-fun)
@@ -20,6 +21,12 @@ This app provides some cool features:
 * Choosing `amount of sentences` for training (from 1 to 10).
 * Ability to check how many `typos` did you make, with what `speed` and `accuracy` you typing.
 * There is also instruction window in case you forgot something.
+
+## App Link
+
+You can test this app by clicking on this icon:
+
+<a href="https://vladickpetrov.github.io/Typee/"><img src="./public/apple-touch-icon.png" style="object-fit:cover; width: 50px; height: 50px;"></a>
 
 ## Requirements
 
