@@ -17,7 +17,7 @@ App created for improving your typewriting skills.
 ## What can you do with this app
 
 This app provides some cool features:
-* You can use `Backspace` if you took a mistake (but counter does not decrease and the number of typos stay the same, I think it's fair)
+* You can use `Backspace` if you take a mistake (but counter does not decrease itself and the number of typos stays the same, I think it's fair)
 * Choosing `amount of sentences` for training (from 1 to 10).
 * Ability to check how many `typos` did you make, with what `speed` and `accuracy` you typing.
 * There is also instruction window in case you forgot something.
