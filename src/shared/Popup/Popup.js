@@ -5,7 +5,7 @@ function Popup({ isPopupOpened, handleStartButton }) {
   return (
     <div className={`popup ${isPopupOpened ? "" : "popup_opened"}`}>
       <div className="popup__main-window">
-        <span className="popup__title">Привет!</span>
+        <span className="popup__title">Hi!</span>
         <p className="popup__subtitle">
           It's Typee – ypur trainee in the world of typewriting.
         </p>
