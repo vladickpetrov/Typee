@@ -7,7 +7,7 @@ function Popup({ isPopupOpened, handleStartButton }) {
       <div className="popup__main-window">
         <span className="popup__title">Hi!</span>
         <p className="popup__subtitle">
-          It's Typee – ypur trainee in the world of typewriting.
+          It's Typee – your trainee in the world of typewriting.
         </p>
         <span className="popup__subtitle">
           If you want to load a random text, just click Enter. You can also
