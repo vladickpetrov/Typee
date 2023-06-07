@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Typee/static/css/main.5394d9d1.css",
-    "main.js": "/Typee/static/js/main.3fff2680.js",
+    "main.js": "/Typee/static/js/main.699b1bfa.js",
     "static/media/ufonts.com_american-typewriter-light.ttf": "/Typee/static/media/ufonts.com_american-typewriter-light.995660dbf53cfd886909.ttf",
     "static/media/ufonts.com_american-typewriter.ttf": "/Typee/static/media/ufonts.com_american-typewriter.5070e3975638666109d3.ttf",
     "static/media/ufonts.com_american-typewriter-bold.ttf": "/Typee/static/media/ufonts.com_american-typewriter-bold.7089766fa1cd917d04e4.ttf",
     "index.html": "/Typee/index.html",
     "main.5394d9d1.css.map": "/Typee/static/css/main.5394d9d1.css.map",
-    "main.3fff2680.js.map": "/Typee/static/js/main.3fff2680.js.map"
+    "main.699b1bfa.js.map": "/Typee/static/js/main.699b1bfa.js.map"
   },
   "entrypoints": [
     "static/css/main.5394d9d1.css",
-    "static/js/main.3fff2680.js"
+    "static/js/main.699b1bfa.js"
   ]
 }
