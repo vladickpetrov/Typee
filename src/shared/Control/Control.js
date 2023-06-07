@@ -14,7 +14,7 @@ function Control({ sentences, controlSentences }) {
       </button>
       <div className="control__container">
         <span className="control__amount">{sentences}</span>
-        <p className="control__label">предложения</p>
+        <p className="control__label">sentences</p>
       </div>
       <button
         className="control__button button"

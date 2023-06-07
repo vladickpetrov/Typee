@@ -7,15 +7,15 @@ function Popup({ isPopupOpened, handleStartButton }) {
       <div className="popup__main-window">
         <span className="popup__title">Привет!</span>
         <p className="popup__subtitle">
-          Это Typee – приложения для тренировки слепой печати.
+          It's Typee – app for typewrite training.
         </p>
         <span className="popup__subtitle">
-          Чтобы загрузить случайный текст, нажми Enter. Ты также можешь
-          регулировать количество предложений, стирать ошибки и открыть это
-          окно, если что-то забудешь.
+          If you want to load random text, click Enter. You can also control
+          amount of loading sentences, delete typos and open this window in case
+          you forgot something.
         </span>
         <button className="popup__button button" onClick={handleStartButton}>
-          Начать
+          Start
         </button>
       </div>
       <div className="popup__background"></div>
