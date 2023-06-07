@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "American Typewriter";
+    src: url(./ufonts.com_american-typewriter.ttf);
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "American Typewriter";
+    src: url(./ufonts.com_american-typewriter-light.ttf);
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "American Typewriter";
+    src: url(./ufonts.com_american-typewriter-bold.ttf);
+    font-style: normal;
+    font-weight: 700;
+}
